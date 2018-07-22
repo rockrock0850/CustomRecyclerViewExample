@@ -1,0 +1,23 @@
+[
+  {
+    "viewType": "2",
+    "imgName": "download_1",
+    "title": "Raiders of the Lost Ark",
+    "genre": "Action & Adventure",
+    "year": "1981"
+  },
+  {
+    "viewType": "1",
+    "imgName": "download_2",
+    "title": "Goldfinger",
+    "genre": "Action & Adventure",
+    "year": "1965"
+  },
+  {
+    "viewType": "1",
+    "imgName": "download_7",
+    "title": "Up",
+    "genre": "Animation",
+    "year": "2300"
+  }
+]

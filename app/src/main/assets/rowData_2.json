@@ -1,0 +1,30 @@
+[
+  {
+    "viewType": "2",
+    "imgName": "download_3",
+    "title": "Chicken Run",
+    "genre": "Animation",
+    "year": "2000"
+  },
+  {
+    "viewType": "1",
+    "imgName": "download_4",
+    "title": "Aliens",
+    "genre": "Science Fiction",
+    "year": "1986"
+  },
+  {
+    "viewType": "1",
+    "imgName": "download_5",
+    "title": "Iron Man",
+    "genre": "Action & Adventure",
+    "year": "2008"
+  },
+  {
+    "viewType": "2",
+    "imgName": "download_0",
+    "title": "Mission: Impossible Rogue Nation",
+    "genre": "Action",
+    "year": "1981"
+  }
+]
